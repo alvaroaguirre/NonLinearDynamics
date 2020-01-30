@@ -6,7 +6,8 @@ I have recently started to study Non-Linear Dynamics and chaotic systems, and I 
 
 ![Lorenz' strange attractor](https://user-images.githubusercontent.com/29491896/73464959-951b8780-4377-11ea-9705-a746c01f4d52.png)
 
-_“It used to be thought that the events that changed the world were things like big bombs, maniac politicians, huge earthquakes, or vast population movements, but it has now been realized that this is a very old-fashioned view held by people totally out of touch with modern thought. The things that change the world, according to Chaos theory, are the tiny things. A butterfly flaps its wings in the Amazonian jungle, and subsequently a storm ravages half of Europe.”_ — Terry Pratchett and Neil Gaiman
+_“It used to be thought that the events that changed the world were things like big bombs, maniac politicians, huge earthquakes, or vast population movements, but it has now been realized that this is a very old-fashioned view held by people totally out of touch with modern thought. The things that change the world, according to Chaos theory, are the tiny things. A butterfly flaps its wings in the Amazonian jungle, and subsequently a storm ravages half of Europe.”_ 
+— Terry Pratchett and Neil Gaiman
 
 In a non-linear system, a change in output is not proportional to a change in inputs. And this very simple characteristic makes studying the dynamics of this type of systems very fun. To give you a first taste of the power of non-linearities, consider the next two options:
 
