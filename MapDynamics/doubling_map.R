@@ -1,5 +1,5 @@
 # Doubling map dynamics
-# F(xt+1) = 2 xt mod 1
+# Xt+1 = 2 Xt mod 1
 
 # Define the map
 doubling_map <- function(ic, t) {
@@ -52,6 +52,6 @@ for (i in 1:length(initial_cond)) {
 }
 plot(initial_cond, convergence, cex=0.5,
      main = "Convergence of doubling map to zero", xlab = "Starting point",
-     ylab = "Iterations", sub = "Doubling map: F(xt+1) = 2 xt mod 1") 
+     ylab = "Iterations", sub = "Doubling map: xt+1 = 2 xt mod 1") 
 
 
