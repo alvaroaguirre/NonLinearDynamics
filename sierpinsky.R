@@ -43,7 +43,7 @@ for (i in 2:N) {
 }
 
 # Transform into data frame
-iter <- as.data.frame(iter)
+iter <- as.data.frame(iter[5:dim(iter)[1],])
 colnames(iter) <- c("x", "y")
 iter$nrow <- seq.int(nrow(iter))
 
