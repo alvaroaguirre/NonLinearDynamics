@@ -7,8 +7,8 @@
 # 2) Depending on the outcome, move halfway towards point A, B, or C
 
 library(uniformly)
-library(gganimate)
 library(ggplot2)
+library(gganimate)
 
 # Create three vertices
 a <- c(runif(1), runif(1)) # Assign 1
