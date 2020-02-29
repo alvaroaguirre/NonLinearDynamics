@@ -14,4 +14,6 @@ And thought, what if we remove the axes and change the colours? Here are some sn
 
 ## My personal favorite
 
-This one was created with the "sloth" time series. Check out the [gif](https://github.com/alvaroaguirre/NonLinearDynamics/blob/master/ChaoticArt/unravel_attractor.gif) 
+This one was created with the "sloth" time series. Check out the [gif](https://github.com/alvaroaguirre/NonLinearDynamics/blob/master/ChaoticArt/unravel_attractor.gif). 
+
+<img src="https://user-images.githubusercontent.com/29491896/75605454-e20b8e80-5ada-11ea-9205-4956c25ad997.png" width="400" height="400"> <img src="https://user-images.githubusercontent.com/29491896/75605455-e2a42500-5ada-11ea-92ec-c167201598b7.png" width="400" height="400">
