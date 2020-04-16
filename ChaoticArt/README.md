@@ -20,4 +20,4 @@ This one was created with the "sloth" time series. Check out the [gif](https://g
 
 ## My personal favorite
 
-![Lorenz](ChaoticArt/lorenz3.gif)
+![Lorenz](https://github.com/alvaroaguirre/NonLinearDynamics/blob/master/ChaoticArt/lorenz3.gif)
