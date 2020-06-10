@@ -49,11 +49,14 @@ iter$nrow <- seq.int(nrow(iter))
 
 # Static plot
 p <- ggplot(iter, aes(x = x, y = y, group = nrow)) + 
-  geom_point(shape = 20, size = 1) +
-  geom_point(aes(x=vrtx[1,1], y=vrtx[1,2]), colour="red", shape = 19, size = 4) +
-  geom_point(aes(x=vrtx[2,1], y=vrtx[2,2]), colour="red", shape = 19, size = 4) +
-  geom_point(aes(x=vrtx[3,1], y=vrtx[3,2]), colour="red", shape = 19, size = 4) +
-  ggtitle("Sierpiński triangle")
+  geom_point(shape = 20, size = 0.5, colour = "#F6F7EB") +
+  theme_bw() + 
+  theme(axis.line=element_blank(),axis.text.x=element_blank(),
+        axis.text.y=element_blank(),axis.ticks=element_blank(),
+        axis.title.x=element_blank(),
+        axis.title.y=element_blank(),legend.position="none",
+        panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
+        panel.grid.minor=element_blank(),plot.background=element_rect(fill = "#393E41"))
 
 plot(p)
 
